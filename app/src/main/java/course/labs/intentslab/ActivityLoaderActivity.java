@@ -82,20 +82,22 @@ public class ActivityLoaderActivity extends Activity {
 		// TODO - Create a base intent for viewing a URL
 		// (HINT:  second parameter uses Uri.parse())
 		
-        Intent baseIntent = null;
+        Intent baseIntent = new Intent(Intent.ACTION_VIEW);
+		baseIntent.setData(Uri.parse(URL));
 		
 		// TODO - Create a chooser intent, for choosing which Activity
 		// will carry out the baseIntent
 		// (HINT: Use the Intent class' createChooser() method)
-		Intent chooserIntent = null;
-        
+		Intent chooserIntent = Intent.createChooser(baseIntent, getResources().getText(R.string.chooser_title));
         
 		Log.i(TAG,"Chooser Intent Action:" + chooserIntent.getAction());
         
         
 		// TODO - Start the chooser Activity, using the chooser intent
+		if(baseIntent.resolveActivity(getPackageManager()) != null){
+			startActivity(chooserIntent);
+		}
 
-        
 	}
     
 	@Override

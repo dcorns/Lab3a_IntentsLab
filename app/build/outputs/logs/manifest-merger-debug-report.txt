@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml
@@ -38,7 +38,7 @@ ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.
 	android:name
 		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:13:30-85
 application
-ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:15:5-40:19
+ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:15:5-33:19
 	android:label
 		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:18:9-41
 	android:allowBackup
@@ -69,17 +69,3 @@ ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.
 		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:31:13-51
 	android:name
 		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:30:13-53
-activity#course.labs.intentslab.LoaderTwo
-ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:32:9-39:20
-	android:label
-		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:34:13-62
-	android:parentActivityName
-		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:35:13-65
-	android:name
-		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:33:13-38
-meta-data#android.support.PARENT_ACTIVITY
-ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:36:13-38:81
-	android:value
-		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:38:17-78
-	android:name
-		ADDED from /data/Projects/Android/Lab3a_IntentsLab/app/src/main/AndroidManifest.xml:37:17-63

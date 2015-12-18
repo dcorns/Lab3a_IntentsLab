@@ -19,20 +19,27 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 103,
-                    "endColumn": 46,
-                    "endOffset": 145
+                    "endColumn": 58,
+                    "endOffset": 157
                 },
                 "from": {
-                    "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml"
+                    "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 58,
+                        "endOffset": 702
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 150,
-                    "endColumn": 66,
-                    "endOffset": 212
+                    "startOffset": 162,
+                    "endColumn": 46,
+                    "endOffset": 204
                 },
                 "from": {
                     "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml"
@@ -42,9 +49,9 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 217,
-                    "endColumn": 81,
-                    "endOffset": 294
+                    "startOffset": 209,
+                    "endColumn": 66,
+                    "endOffset": 271
                 },
                 "from": {
                     "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml"
@@ -54,9 +61,9 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 299,
-                    "endColumn": 78,
-                    "endOffset": 373
+                    "startOffset": 276,
+                    "endColumn": 81,
+                    "endOffset": 353
                 },
                 "from": {
                     "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml"
@@ -66,9 +73,9 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 378,
-                    "endColumn": 81,
-                    "endOffset": 455
+                    "startOffset": 358,
+                    "endColumn": 78,
+                    "endOffset": 432
                 },
                 "from": {
                     "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml"
@@ -78,9 +85,9 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 460,
-                    "endColumn": 59,
-                    "endOffset": 515
+                    "startOffset": 437,
+                    "endColumn": 81,
+                    "endOffset": 514
                 },
                 "from": {
                     "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml"
@@ -90,28 +97,21 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 520,
-                    "endColumn": 63,
-                    "endOffset": 579
+                    "startOffset": 519,
+                    "endColumn": 59,
+                    "endOffset": 574
                 },
                 "from": {
-                    "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 648,
-                        "endColumn": 63,
-                        "endOffset": 707
-                    }
+                    "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 584,
+                    "startOffset": 579,
                     "endColumn": 62,
-                    "endOffset": 642
+                    "endOffset": 637
                 },
                 "from": {
                     "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml"
@@ -121,9 +121,9 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 647,
+                    "startOffset": 642,
                     "endColumn": 63,
-                    "endOffset": 706
+                    "endOffset": 701
                 },
                 "from": {
                     "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/strings.xml"
@@ -133,10 +133,10 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 711,
+                    "startOffset": 706,
                     "endLine": 18,
                     "endColumn": 12,
-                    "endOffset": 997
+                    "endOffset": 992
                 },
                 "from": {
                     "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/styles.xml"
@@ -146,10 +146,10 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1002,
+                    "startOffset": 997,
                     "endLine": 21,
                     "endColumn": 12,
-                    "endOffset": 1157
+                    "endOffset": 1152
                 },
                 "from": {
                     "file": "/data/Projects/Android/Lab3a_IntentsLab/app/src/main/res/values/styles.xml"

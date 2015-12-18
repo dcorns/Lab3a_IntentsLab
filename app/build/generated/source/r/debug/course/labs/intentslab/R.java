@@ -26,13 +26,13 @@ public final class R {
     }
     public static final class string {
         public static final int app_name=0x7f050000;
-        public static final int enter_string=0x7f050001;
-        public static final int enter_text_here_string=0x7f050002;
-        public static final int explicit_activation_button_string=0x7f050003;
-        public static final int explicit_message=0x7f050004;
-        public static final int implicit_activation_button_string=0x7f050005;
-        public static final int no_text_entered=0x7f050006;
-        public static final int title_activity_loader_two=0x7f050007;
+        public static final int chooser_title=0x7f050001;
+        public static final int enter_string=0x7f050002;
+        public static final int enter_text_here_string=0x7f050003;
+        public static final int explicit_activation_button_string=0x7f050004;
+        public static final int explicit_message=0x7f050005;
+        public static final int implicit_activation_button_string=0x7f050006;
+        public static final int no_text_entered=0x7f050007;
         public static final int title_explicit=0x7f050008;
         public static final int title_main=0x7f050009;
     }

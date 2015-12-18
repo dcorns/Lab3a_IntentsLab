@@ -29,14 +29,7 @@
         <activity
             android:name=".ExplicitlyLoadedActivity"
             android:label="@string/title_explicit"></activity>
-        <activity
-            android:name=".LoaderTwo"
-            android:label="@string/title_activity_loader_two"
-            android:parentActivityName=".ActivityLoaderActivity">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="course.labs.intentslab.ActivityLoaderActivity" />
-        </activity>
+
     </application>
 
 </manifest>
